@@ -1,0 +1,2 @@
+[Can retreat from battle on the first turn]
+0044D228 E3500001
