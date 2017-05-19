@@ -195,7 +195,7 @@ Chapter 6 (Y or START: Alm & Celica}
 00527510 E8BD8002
 00527514 63626203
 003A2984 EB0612DD
-{Need enter "Support Log" menu once}
+{Need enter Support Log menu once}
 
 [++Battle Art Skills++]
 
@@ -433,3 +433,4 @@ E4C25001 E1530002
 0052742C 11A06002
 00527430 E12FFF1E
 00453084 EB0350E3
+
