@@ -1,2 +1,10 @@
-# SoVEU-NTR-Plugin
-Fire Emblem Echoes: Shadows of Valentia EU NTR Plugin (coming soon)
+# Fire Emblem Echoes: Shadows of Valentia EU NTR Plugin
+Cheats coming soon!
+
+## Instructions
+
+
+## Credits
+
+
+## Cheats in plugin
