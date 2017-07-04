@@ -1,0 +1,3 @@
+[Well does not wither]
+0042D040 EA000000
+0042CE54 EA000000

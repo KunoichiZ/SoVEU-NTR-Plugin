@@ -1,0 +1,2 @@
+[Stops overmap reinforcements from appearing]
+00410F94 E3A00000

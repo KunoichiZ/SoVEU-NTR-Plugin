@@ -53,7 +53,7 @@ Sonya:Press START+L and go to Grieth's Citadel Interior War Room}
 
 [Bookmark does not disappear]
 003B9D00 E12FFF1E
-Please Enable code before load Bookmark
+{Please Enable code before load Bookmark}
 
 [Get 100 EXP After Battling Enemy]
 DD000000 00000048

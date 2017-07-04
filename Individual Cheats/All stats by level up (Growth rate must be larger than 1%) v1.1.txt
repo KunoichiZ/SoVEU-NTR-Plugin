@@ -1,2 +1,2 @@
 [All stats by level up (Growth rate must be larger than 1%)]
-00356E74 E3A00001
+0035788C E3A00001

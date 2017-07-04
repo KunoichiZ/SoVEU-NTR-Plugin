@@ -1,2 +1,2 @@
 [Run through monsters in 3D dungeons]
-0017EED4 EA00003F
+0017FFF4 EA00003F

@@ -1,2 +1,2 @@
 [Able to trade items with enemy]
-00333F3C E1500000
+00334C40 E1500000

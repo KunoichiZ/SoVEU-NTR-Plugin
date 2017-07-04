@@ -1,2 +1,2 @@
 [Able to control enemy]
-002F97C4 E1500000
+002FA3D4 E1500000
